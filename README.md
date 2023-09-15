@@ -1,6 +1,6 @@
 # Resture
  Restuarant application
-How to Run the code: -
+       How to Run this code: -
 
 1. Flutter SDK required.
 2. Pull/download code from Github
