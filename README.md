@@ -9,3 +9,4 @@
 5. In your terminal, input "flutter build apk --release" to build for release.
 6. In your terminal, input "flutter inatall" after you have connected your physical device or simulator to install on your prefered device.
 
+![Splash](/screenshot/zeus1.jpg)
