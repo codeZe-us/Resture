@@ -10,6 +10,6 @@
 6. In your terminal, input "flutter inatall" after you have connected your physical device or simulator to install on your prefered device.
 
 
-<img src="https://github.com/codeZe-us/Resture/screenshot/zeus1.jpg" width="220" height="420"/>
+<img src="https://github.com/codeZe-us/Resture/foodhub/screenshot/zeus1.jpg" width="220" height="420"/>
 
 
