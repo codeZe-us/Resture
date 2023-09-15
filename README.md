@@ -1,5 +1,5 @@
 # Resture
- Restuarant application
+ Restuarant application.
        How to Run this code: -
 
 1. Flutter SDK required.
